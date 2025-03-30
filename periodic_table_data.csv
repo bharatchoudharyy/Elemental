@@ -1,0 +1,103 @@
+name,symbol,atomic_number,row,col,color,chemical_group,melting_point,boiling_point,phase_at_stp,electronegativity,common_oxidation_states,number_of_valence_electrons
+Hydrogen,H,1,1,1,mistyrose,Nonmetal,-259.16,-252.87,gas,2.20,"+1,-1",1
+Helium,He,2,1,18,lightblue,Noble Gas,-272.2,-268.93,gas,Not applicable,"0",2
+Lithium,Li,3,2,1,coral,Alkali Metal,180.54,1342,solid,0.98,"+1",1
+Beryllium,Be,4,2,2,lightsalmon,Alkaline Earth Metal,1287,2470,solid,1.57,"+2",2
+Boron,B,5,2,13,lightcoral,Metalloid,2076,3927,solid,2.04,"+3",3
+Carbon,C,6,2,14,mistyrose,Nonmetal,3550,4827,solid,2.55,"+4",4
+Nitrogen,N,7,2,15,mistyrose,Nonmetal,-210,-196,gas,3.04,"+5",5
+Oxygen,O,8,2,16,mistyrose,Nonmetal,-218.79,-183,gas,3.44,"-2",6
+Fluorine,F,9,2,17,lightgreen,Nonmetal,-219.67,-188.12,gas,3.98,"-1",7
+Neon,Ne,10,2,18,lightblue,Noble Gas,-248.59,-246.08,gas,Not applicable,"0",8
+Sodium,Na,11,3,1,coral,Alkali Metal,97.72,883,solid,0.93,"+1",1
+Magnesium,Mg,12,3,2,lightsalmon,Alkaline Earth Metal,650,1090,solid,1.31,"+2",2
+Aluminum,Al,13,3,13,lightpink,Post-Transition Metal,660.32,2519,solid,1.61,"+3",3
+Silicon,Si,14,3,14,lightcoral,Metalloid,1414,3265,solid,1.90,"+4",4
+Phosphorus,P,15,3,15,mistyrose,Nonmetal,44.15,280.5,solid,2.19,"+5",5
+Sulfur,S,16,3,16,mistyrose,Nonmetal,115.21,444.6,solid,2.58,"-2",6
+Chlorine,Cl,17,3,17,lightgreen,Nonmetal,-101.5,-34.04,gas,3.16,"+1,-1",7
+Argon,Ar,18,3,18,lightblue,Noble Gas,-189.34,-185.85,gas,Not applicable,"0",8
+Potassium,K,19,4,1,coral,Alkali Metal,63.38,759.9,solid,0.82,"+1",1
+Calcium,Ca,20,4,2,lightsalmon,Alkaline Earth Metal,842,1484,solid,1.00,"+2",2
+Scandium,Sc,21,4,3,lemonchiffon,Transition Metal,1541,2836,solid,1.36,"+3",3
+Titanium,Ti,22,4,4,lemonchiffon,Transition Metal,1668,3287,solid,1.54,"+4",4
+Vanadium,V,23,4,5,lemonchiffon,Transition Metal,1910,3407,solid,1.63,"+5",5
+Chromium,Cr,24,4,6,lemonchiffon,Transition Metal,1907,2671,solid,1.66,"+3,+6",6
+Manganese,Mn,25,4,7,lemonchiffon,Transition Metal,1246,2061,solid,1.55,"+2,+7",7
+Iron,Fe,26,4,8,lemonchiffon,Transition Metal,1538,2861,solid,1.83,"+2,+3",8
+Nickel,Ni,27,4,9,lemonchiffon,Transition Metal,1455,2732,solid,1.91,"+2",9
+Cobalt,Co,28,4,10,lemonchiffon,Transition Metal,1495,2870,solid,1.88,"+2,+3",10
+Copper,Cu,29,4,11,lemonchiffon,Transition Metal,1084.62,2562,solid,1.90,"+1,+2",11
+Zinc,Zn,30,4,12,lemonchiffon,Transition Metal,419.53,907,solid,1.65,"+2",12
+Gallium,Ga,31,4,13,lightpink,Post-Transition Metal,29.76,2204,solid,1.81,"+3",13
+Germanium,Ge,32,4,14,lightcoral,Metalloid,937.4,2830,solid,2.01,"+4",14
+Arsenic,As,33,4,15,lightcoral,Metalloid,817,613,solid,2.18,"+3",15
+Selenium,Se,34,4,16,mistyrose,Nonmetal,221,685,solid,2.55,"+4,+6",16
+Bromine,Br,35,4,17,lightgreen,Nonmetal,-7.2,58.8,liquid,2.96,"-1,+5",17
+Krypton,Kr,36,4,18,lightblue,Noble Gas,-157.37,-153.22,gas,Not applicable,"0",18
+Rubidium,Rb,37,5,1,coral,Alkali Metal,28.4,671,solid,0.82,"+1",1
+Barium,Ba,38,5,2,lightsalmon,Alkaline Earth Metal,727,1870,solid,0.89,"+2",2
+Lanthanides,La-Lu,39,5,3,lemonchiffon,Lanthanide,Not applicable,Not applicable,Not applicable,Not applicable,Not applicable
+Hafnium,Hf,40,5,4,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,1.30,"+4",4
+Tantalum,Ta,41,5,5,lemonchiffon,Transition Metal,3017,5458,solid,1.50,"+5",5
+Tungsten,W,42,5,6,lemonchiffon,Transition Metal,3422,5555,solid,2.36,"+4,+6",6
+Rhenium,Re,43,5,7,lemonchiffon,Transition Metal,3186,5596,solid,1.90,"+4,+6,+7",7
+Osmium,Os,44,5,8,lemonchiffon,Transition Metal,3045,5285,solid,2.20,"+4,+6,+8",8
+Iridium,Ir,45,5,9,lemonchiffon,Transition Metal,2446,4130,solid,2.20,"+3,+4",9
+Platinum,Pt,46,5,10,lemonchiffon,Transition Metal,1772,3827,solid,2.28,"+2,+4",10
+Gold,Au,47,5,11,lemonchiffon,Transition Metal,1064,2807,solid,2.54,"+1,+3",11
+Mercury,Hg,48,5,12,lemonchiffon,Transition Metal,-38.83,356.73,liquid,2.00,"+1,+2",12
+Thallium,Tl,49,5,13,lightpink,Post-Transition Metal,304,1457,solid,1.62,"+1,+3",13
+Lead,Pb,50,5,14,lightpink,Post-Transition Metal,327.46,1749,solid,1.87,"+2,+4",14
+Bismuth,Bi,51,5,15,lightpink,Post-Transition Metal,271.3,1564,solid,2.02,"+3,+5",15
+Polonium,Po,52,5,16,lightcoral,Metalloid,254,962,solid,2.00,"-2,+2,+4",16
+Astatine,At,53,5,17,lightgreen,Nonmetal,302,337,solid,2.20,"-1,+1,+3,+5",17
+Radon,Rn,54,5,18,lightblue,Noble Gas,-71,-61.7,gas,Not applicable,"0",18
+Francium,Fr,55,6,1,coral,Alkali Metal,27,677,solid,0.70,"+1",1
+Radium,Ra,56,6,2,lightsalmon,Alkaline Earth Metal,700,1737,solid,0.90,"+2",2
+Actinides,Ac-Lu,57,6,3,lemonchiffon,Actinide,Not applicable,Not applicable,solid,1.10,Not applicable
+Rutherfordium,Rf,58,6,4,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Dubnium,Db,59,6,5,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Seaborgium,Sg,60,6,6,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Bohrium,Bh,61,6,7,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Hassium,Hs,62,6,8,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Meitnerium,Mt,63,6,9,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Darmstadtium,Ds,64,6,10,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Roentgenium,Rg,65,6,11,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Copernicium,Cn,66,6,12,lemonchiffon,Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Nihonium,Nh,67,6,13,lightpink,Post-Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Flerovium,Fl,68,6,14,lightpink,Post-Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Moscovium,Mc,69,6,15,lightpink,Post-Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Livermorium,Lv,70,6,16,lightpink,Post-Transition Metal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Tennessine,Ts,71,6,17,lightgreen,Nonmetal,Not applicable,Not applicable,solid,Not applicable,Not applicable
+Oganesson,Og,72,6,18,lightblue,Noble Gas,Not applicable,Not applicable,gas,Not applicable,Not applicable
+Lanthanum,La,73,9,3,lightgrey,Lanthanide,920,3469,solid,1.10,"+3",3
+Cerium,Ce,74,9,4,lightgrey,Lanthanide,798,3443,solid,1.12,"+3,+4",4
+Praseodymium,Pr,75,9,5,lightgrey,Lanthanide,931,3520,solid,1.13,"+3",5
+Neodymium,Nd,76,9,6,lightgrey,Lanthanide,1024,3074,solid,1.14,"+3",6
+Promethium,Pm,77,9,7,lightgrey,Lanthanide,Not applicable,Not applicable,solid,1.13,"+3",7
+Samarium,Sm,78,9,8,lightgrey,Lanthanide,1072,1794,solid,1.17,"+2,+3",8
+Europium,Eu,79,9,9,lightgrey,Lanthanide,822,1596,solid,1.20,"+2,+3",9
+Gadolinium,Gd,80,9,10,lightgrey,Lanthanide,1312,3000,solid,1.20,"+3",10
+Terbium,Tb,81,9,11,lightgrey,Lanthanide,1356,3041,solid,1.20,"+3",11
+Dysprosium,Dy,82,9,12,lightgrey,Lanthanide,1412,2562,solid,1.22,"+3",12
+Holmium,Ho,83,9,13,lightgrey,Lanthanide,1470,2720,solid,1.23,"+3",13
+Erbium,Er,84,9,14,lightgrey,Lanthanide,1529,2863,solid,1.24,"+3",14
+Thulium,Tm,85,9,15,lightgrey,Lanthanide,1545,1950,solid,1.25,"+3",15
+Ytterbium,Yb,86,9,16,lightgrey,Lanthanide,824,1196,solid,1.10,"+2,+3",16
+Lutetium,Lu,87,9,17,lightgrey,Lanthanide,1663,3402,solid,1.27,"+3",17
+Actinium,Ac,88,10,3,grey,Actinide,1050,3200,solid,1.10,"+3",3
+Thorium,Th,89,10,4,grey,Actinide,1750,4788,solid,1.30,"+4",4
+Protactinium,Pa,90,10,5,grey,Actinide,1572,4000,solid,1.50,"+5",5
+Uranium,U,91,10,6,grey,Actinide,1132,4131,solid,1.38,"+3,+4,+5,+6",6
+Neptunium,Np,92,10,7,grey,Actinide,644,3902,solid,1.36,"+3,+4,+5,+6",7
+Plutonium,Pu,93,10,8,grey,Actinide,640,3230,solid,1.28,"+3,+4,+5,+6",8
+Americium,Am,94,10,9,grey,Actinide,1176,2607,solid,1.30,"+3,+4,+5,+6",9
+Curium,Cm,95,10,10,grey,Actinide,1345,3110,solid,1.30,"+3,+4",10
+Berkelium,Bk,96,10,11,grey,Actinide,986,2900,solid,1.30,"+3,+4",11
+Californium,Cf,97,10,12,grey,Actinide,900,1472,solid,1.30,"+3",12
+Einsteinium,Es,98,10,13,grey,Actinide,Not applicable,Not applicable,solid,1.30,"+3",13
+Fermium,Fm,99,10,14,grey,Actinide,Not applicable,Not applicable,solid,1.30,"+3",14
+Mendelevium,Md,100,10,15,grey,Actinide,Not applicable,Not applicable,solid,1.30,"+2,+3",15
+Nobelium,No,101,10,16,grey,Actinide,Not applicable,Not applicable,solid,1.30,"+2,+3",16
+Lawrencium,Lr,102,10,17,grey,Actinide,Not applicable,Not applicable,solid,1.30,"+3",17
