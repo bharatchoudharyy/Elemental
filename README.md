@@ -1,4 +1,4 @@
-# Interactive Periodic Table
+#Elemental - An Interactive Periodic Table
 
 This project is a desktop application created with Python that displays an interactive periodic table. When a user clicks on an element, a popup window appears with detailed information about that element, and the information is simultaneously read aloud using text-to-speech.
 
